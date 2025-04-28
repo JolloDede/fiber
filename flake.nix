@@ -41,7 +41,7 @@
             name = "fiber";
             subPackages = [  ];
             src = gitignore.lib.gitignoreSource ./.;
-            vendorHash = "sha256-x0CLfCjgfgFp7vAVXwrLDLm+SpgHv3v3dW+Vf3WlTJU=";
+            vendorHash = "sha256-eJA99i5HnflFtns66g94/pG6XfxFWh2yt4m8SBdobc4=";
             CGO_ENABLED = 0;
             flags = [
               "-trimpath"
